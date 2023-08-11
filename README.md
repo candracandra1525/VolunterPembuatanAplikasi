@@ -1,5 +1,5 @@
-# Volunter Pembuatan Aplikasi
-Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan aplikasi Dicoding. Jika anda tertarik untuk menjadi Volunter, silahkan lakukan PR (Pull Request) pada berkas ini ya. Silahkan gunakan format berikut :
+# Volunter Pembuatan Aplikasi (Hanya Contoh)
+Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan aplikasi. Jika anda tertarik untuk menjadi Volunter, silahkan lakukan PR (Pull Request) pada berkas ini ya. Silahkan gunakan format berikut :
 
 
 **\* Nama Lengkap, [Nama Portofolio] (Alamat Portofolio)**
